@@ -1,0 +1,1312 @@
+{
+ "meta": {
+  "title": "Radar Competitivo · Demo",
+  "client": "Tu Marca",
+  "demo": true,
+  "category": "cafeterías de especialidad",
+  "market": "Chile",
+  "extractionDate": "noviembre de 2026",
+  "railTag": "DEMO · DATOS FICTICIOS",
+  "thesis": "Tu Marca es la que más publica, pero de las que menos convierte esa constancia en comunidad",
+  "sub": "Benchmark de Instagram, Facebook y Meta Ads de 5 marcas, con un diagnóstico puntuado y las oportunidades que nadie en la categoría está tomando.",
+  "demoNote": "Versión demostrativa. Marcas, cifras y textos son ficticios y no corresponden a ninguna empresa real. Las etiquetas “verificado” y “estimado” muestran cómo se marca cada dato en un Radar real.",
+  "panoramaDesc": "Cinco marcas de cafeterías de especialidad, comparadas en las mismas métricas.",
+  "facebookDesc": "Comunidad, rol del canal y diferencias de uso entre marcas.",
+  "scatterCap": "Dónde está cada marca: eje horizontal, tamaño de comunidad; eje vertical, cuánto responde esa comunidad. Tu Marca está abajo a la izquierda: comunidad chica que responde poco para lo que publica.",
+  "dotsCap": "Cada punto es una de las últimas 12 publicaciones. Se ve el video viral de Marca Beta, el salto de las colaboraciones de Marca Alfa y la regularidad de Marca Delta.",
+  "waffleCap": "Las últimas 12 publicaciones por tipo. Tu Marca tiene una sola colaboración y Marca Alfa entrega casi la mitad de su grilla a creadores.",
+  "pricesCap": "Ofertas equivalentes en anuncios activos. En café de bolsa, Tu Marca es la más cara del segmento.",
+  "heatCap": "Qué temas pauta cada marca. Promo de precio y producto nuevo están saturados; origen del café y suscripción casi no tienen dueño.",
+  "divergeCap": "Diferencia porcentual contra el promedio de las cuatro competidoras. Tu Marca gana en esfuerzo (frecuencia, Reels) y pierde en alcance (seguidores, Facebook y colaboraciones).",
+  "dxDesc": "Puntaje sobre 100 frente a las 4 competidoras, con una rúbrica de 8 dimensiones ponderadas.",
+  "searchHint": "“promo”, “Alfa” o “creadores”",
+  "kpi3": "bajo la mediana",
+  "method": "En un Radar real, los datos de Instagram, Facebook y la Biblioteca de anuncios de Meta se leen directamente en cada plataforma en la fecha de corte. Interacciones = likes + comentarios de las últimas 12 publicaciones visibles (posts propios, sin fijados). Engagement = interacciones ÷ seguidores. En esta demo todas las cifras son ficticias."
+ },
+ "brands": [
+  {
+   "id": "tumarca",
+   "name": "Tu Marca",
+   "handle": "@tumarca.demo",
+   "url": "",
+   "color": "#00E07A",
+   "logo": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 200 40'><circle cx='20' cy='20' r='11' fill='none' stroke='%2300C46B' stroke-width='6'/><text x='42' y='27' font-family='Helvetica,Arial,sans-serif' font-size='19' font-weight='700' fill='%230B0B0C' letter-spacing='-.6'>Tu Marca</text></svg>",
+   "followers": 48200,
+   "posts": 1116,
+   "following": 604,
+   "postsPerWeek": 5.4,
+   "avgInteractions": 197.4,
+   "medianInteractions": 194,
+   "er": 0.409,
+   "erMedian": 0.402,
+   "reelsPct": 82,
+   "collabs": 1,
+   "collabPct": 8,
+   "grid": [
+    {
+     "code": "",
+     "type": "Reel",
+     "date": "14 nov",
+     "likes": 157,
+     "comments": 5,
+     "own": true,
+     "topic": "Latte de temporada"
+    },
+    {
+     "code": "",
+     "type": "Reel",
+     "date": "13 nov",
+     "likes": 258,
+     "comments": 14,
+     "own": true,
+     "topic": "Detrás de la barra"
+    },
+    {
+     "code": "",
+     "type": "Reel",
+     "date": "11 nov",
+     "likes": 73,
+     "comments": 3,
+     "own": true,
+     "topic": "Promo martes 2x1"
+    },
+    {
+     "code": "",
+     "type": "Reel",
+     "date": "10 nov",
+     "likes": 171,
+     "comments": 5,
+     "own": true,
+     "topic": "Nuevo croissant"
+    },
+    {
+     "code": "",
+     "type": "Reel",
+     "date": "8 nov",
+     "likes": 312,
+     "comments": 20,
+     "own": true,
+     "topic": "Tip de barista: molienda"
+    },
+    {
+     "code": "",
+     "type": "Post",
+     "date": "6 nov",
+     "likes": 141,
+     "comments": 8,
+     "own": true,
+     "topic": "Cold brew de verano"
+    },
+    {
+     "code": "",
+     "type": "Post",
+     "date": "5 nov",
+     "likes": 186,
+     "comments": 8,
+     "own": true,
+     "topic": "Playlist del local"
+    },
+    {
+     "code": "",
+     "type": "Reel",
+     "date": "3 nov",
+     "likes": 284,
+     "comments": 19,
+     "own": false,
+     "topic": "Collab con creador/a gastronómico/a"
+    },
+    {
+     "code": "",
+     "type": "Reel",
+     "date": "1 nov",
+     "likes": 268,
+     "comments": 9,
+     "own": true,
+     "topic": "Origen del grano"
+    },
+    {
+     "code": "",
+     "type": "Reel",
+     "date": "30 oct",
+     "likes": 196,
+     "comments": 7,
+     "own": true,
+     "topic": "Encuesta: ¿qué sabor?"
+    },
+    {
+     "code": "",
+     "type": "Reel",
+     "date": "29 oct",
+     "likes": 193,
+     "comments": 9,
+     "own": true,
+     "topic": "Equipo del mes"
+    },
+    {
+     "code": "",
+     "type": "Reel",
+     "date": "27 oct",
+     "likes": 124,
+     "comments": 4,
+     "own": true,
+     "topic": "Horario de feriado"
+    }
+   ],
+   "isClient": true,
+   "fb": {
+    "followers": 12400,
+    "url": "",
+    "note": "Replica Instagram con 1 día de desfase. Responde mensajes en menos de 2 h."
+   },
+   "ads": {
+    "active": true,
+    "count": 14,
+    "since": "12 oct 2026",
+    "themes": [
+     "Promo martes 2x1",
+     "Nuevo croissant",
+     "Delivery por app",
+     "Bebida de temporada"
+    ],
+    "ctas": [
+     "Pedir ahora",
+     "Más información",
+     "Cómo llegar"
+    ],
+    "formats": "Video 9:16 (0:12–0:20) + estático; 3 versiones en testeo",
+    "summary": "Pauta táctica y constante, centrada en promociones de precio. Buen volumen para su tamaño, pero casi sin piezas de marca.",
+    "alert": "Dos anuncios activos dirigen a un local que cambió de horario: el copy promete apertura 7:30 y la ficha dice 8:30.",
+    "library": ""
+   },
+   "footprint": "9 locales en RM y V Región",
+   "footprintConf": "estimado",
+   "pos": {
+    "tone": "Cercano, cotidiano, mucho emoji",
+    "focus": "Promos y producto nuevo",
+    "cta": "Pedir por app",
+    "community": "Oficinistas y estudiantes"
+   }
+  },
+  {
+   "id": "alfa",
+   "name": "Marca Alfa",
+   "handle": "@marcaalfa.demo",
+   "url": "",
+   "color": "#0B0B0C",
+   "logo": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 200 40'><rect x='9' y='9' width='22' height='22' rx='6' fill='%230B0B0C'/><text x='42' y='27' font-family='Helvetica,Arial,sans-serif' font-size='19' font-weight='700' fill='%230B0B0C' letter-spacing='-.6'>Marca Alfa</text></svg>",
+   "followers": 142000,
+   "posts": 1117,
+   "following": 516,
+   "postsPerWeek": 2.6,
+   "avgInteractions": 661.6,
+   "medianInteractions": 649,
+   "er": 0.466,
+   "erMedian": 0.457,
+   "reelsPct": 14,
+   "collabs": 5,
+   "collabPct": 42,
+   "grid": [
+    {
+     "code": "",
+     "type": "Post",
+     "date": "14 nov",
+     "likes": 586,
+     "comments": 26,
+     "own": true,
+     "topic": "Lanzamiento bebida de temporada"
+    },
+    {
+     "code": "",
+     "type": "Post",
+     "date": "13 nov",
+     "likes": 1430,
+     "comments": 62,
+     "own": false,
+     "topic": "Collab con creador/a gastronómico/a"
+    },
+    {
+     "code": "",
+     "type": "Post",
+     "date": "11 nov",
+     "likes": 688,
+     "comments": 28,
+     "own": true,
+     "topic": "Nuevo local"
+    },
+    {
+     "code": "",
+     "type": "Post",
+     "date": "10 nov",
+     "likes": 607,
+     "comments": 42,
+     "own": true,
+     "topic": "Sorteo kit de filtrado"
+    },
+    {
+     "code": "",
+     "type": "Reel",
+     "date": "8 nov",
+     "likes": 1248,
+     "comments": 92,
+     "own": false,
+     "topic": "Collab con marca aliada"
+    },
+    {
+     "code": "",
+     "type": "Reel",
+     "date": "6 nov",
+     "likes": 572,
+     "comments": 36,
+     "own": true,
+     "topic": "Combo desayuno"
+    },
+    {
+     "code": "",
+     "type": "Post",
+     "date": "5 nov",
+     "likes": 615,
+     "comments": 20,
+     "own": true,
+     "topic": "Origen del grano"
+    },
+    {
+     "code": "",
+     "type": "Post",
+     "date": "3 nov",
+     "likes": 702,
+     "comments": 39,
+     "own": true,
+     "topic": "Detrás de la barra"
+    },
+    {
+     "code": "",
+     "type": "Post",
+     "date": "1 nov",
+     "likes": 1286,
+     "comments": 78,
+     "own": false,
+     "topic": "Collab con marca aliada"
+    },
+    {
+     "code": "",
+     "type": "Post",
+     "date": "30 oct",
+     "likes": 638,
+     "comments": 32,
+     "own": true,
+     "topic": "Menú de otoño"
+    },
+    {
+     "code": "",
+     "type": "Post",
+     "date": "29 oct",
+     "likes": 1850,
+     "comments": 95,
+     "own": false,
+     "topic": "Collab con marca aliada"
+    },
+    {
+     "code": "",
+     "type": "Post",
+     "date": "27 oct",
+     "likes": 1066,
+     "comments": 65,
+     "own": false,
+     "topic": "Collab con creador/a gastronómico/a"
+    }
+   ],
+   "isClient": false,
+   "fb": {
+    "followers": 38000,
+    "url": "",
+    "note": "Contenido propio y nativo; concursos con alta respuesta."
+   },
+   "ads": {
+    "active": true,
+    "count": 22,
+    "since": "2 sep 2026",
+    "themes": [
+     "App de fidelización",
+     "Bebida de temporada",
+     "Locales nuevos",
+     "Marca emocional"
+    ],
+    "ctas": [
+     "Descargar",
+     "Comprar",
+     "Cómo llegar",
+     "Más información"
+    ],
+    "formats": "Video, carrusel y catálogo; segmentación por comuna",
+    "summary": "El anunciante más completo: embudo de marca a app, piezas geolocalizadas por apertura y una línea emocional sostenida.",
+    "alert": "",
+    "library": ""
+   },
+   "footprint": "31 locales a nivel nacional",
+   "footprintConf": "estimado",
+   "pos": {
+    "tone": "Aspiracional, pulido",
+    "focus": "Lanzamientos y app",
+    "cta": "Descarga la app",
+    "community": "Público masivo urbano"
+   }
+  },
+  {
+   "id": "beta",
+   "name": "Marca Beta",
+   "handle": "@marcabeta.demo",
+   "url": "",
+   "color": "#4C4C4A",
+   "logo": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 200 40'><path d='M20 7 L33 31 H7 Z' fill='%230B0B0C'/><text x='42' y='27' font-family='Helvetica,Arial,sans-serif' font-size='19' font-weight='700' fill='%230B0B0C' letter-spacing='-.6'>Marca Beta</text></svg>",
+   "followers": 86500,
+   "posts": 1127,
+   "following": 587,
+   "postsPerWeek": 3.1,
+   "avgInteractions": 805.5,
+   "medianInteractions": 372.0,
+   "er": 0.931,
+   "erMedian": 0.43,
+   "reelsPct": 70,
+   "collabs": 2,
+   "collabPct": 17,
+   "grid": [
+    {
+     "code": "",
+     "type": "Reel",
+     "date": "14 nov",
+     "likes": 4411,
+     "comments": 209,
+     "own": true,
+     "topic": "Video viral: arte latte"
+    },
+    {
+     "code": "",
+     "type": "Reel",
+     "date": "13 nov",
+     "likes": 285,
+     "comments": 14,
+     "own": true,
+     "topic": "Reto del barista"
+    },
+    {
+     "code": "",
+     "type": "Post",
+     "date": "11 nov",
+     "likes": 313,
+     "comments": 10,
+     "own": true,
+     "topic": "Pastelería nueva"
+    },
+    {
+     "code": "",
+     "type": "Reel",
+     "date": "10 nov",
+     "likes": 313,
+     "comments": 13,
+     "own": true,
+     "topic": "Promo estudiantes"
+    },
+    {
+     "code": "",
+     "type": "Reel",
+     "date": "8 nov",
+     "likes": 496,
+     "comments": 17,
+     "own": true,
+     "topic": "Café + trabajo remoto"
+    },
+    {
+     "code": "",
+     "type": "Post",
+     "date": "6 nov",
+     "likes": 970,
+     "comments": 67,
+     "own": false,
+     "topic": "Collab con creador/a gastronómico/a"
+    },
+    {
+     "code": "",
+     "type": "Reel",
+     "date": "5 nov",
+     "likes": 490,
+     "comments": 21,
+     "own": true,
+     "topic": "Encuesta de sabores"
+    },
+    {
+     "code": "",
+     "type": "Post",
+     "date": "3 nov",
+     "likes": 359,
+     "comments": 25,
+     "own": true,
+     "topic": "Tostado en vivo"
+    },
+    {
+     "code": "",
+     "type": "Reel",
+     "date": "1 nov",
+     "likes": 320,
+     "comments": 12,
+     "own": true,
+     "topic": "Cata abierta"
+    },
+    {
+     "code": "",
+     "type": "Reel",
+     "date": "30 oct",
+     "likes": 805,
+     "comments": 41,
+     "own": false,
+     "topic": "Collab con creador/a gastronómico/a"
+    },
+    {
+     "code": "",
+     "type": "Reel",
+     "date": "29 oct",
+     "likes": 350,
+     "comments": 10,
+     "own": true,
+     "topic": "Menú vegano"
+    },
+    {
+     "code": "",
+     "type": "Post",
+     "date": "27 oct",
+     "likes": 367,
+     "comments": 20,
+     "own": true,
+     "topic": "Playlist"
+    }
+   ],
+   "isClient": false,
+   "fb": {
+    "followers": 21000,
+    "url": "",
+    "note": "Comparte los videos de Instagram; 1 de cada 4 se viraliza también aquí."
+   },
+   "ads": {
+    "active": true,
+    "count": 6,
+    "since": "20 oct 2026",
+    "themes": [
+     "Promo estudiantes",
+     "Pastelería nueva",
+     "Café + trabajo remoto"
+    ],
+    "ctas": [
+     "Más información",
+     "Enviar mensaje"
+    ],
+    "formats": "Reels promocionados (0:15)",
+    "summary": "Pauta corta que amplifica sus contenidos orgánicos con mejor desempeño. Poca variedad de mensajes, pero alineada con su voz.",
+    "alert": "",
+    "library": ""
+   },
+   "footprint": "14 locales en RM",
+   "footprintConf": "estimado",
+   "pos": {
+    "tone": "Divertido, nativo de video",
+    "focus": "Entretenimiento y retos",
+    "cta": "Ven a probarlo",
+    "community": "Jóvenes 18–30"
+   }
+  },
+  {
+   "id": "gamma",
+   "name": "Marca Gamma",
+   "handle": "@marcagamma.demo",
+   "url": "",
+   "color": "#8C8C88",
+   "logo": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 200 40'><rect x='8' y='18' width='6' height='14' rx='2' fill='%230B0B0C'/><rect x='17' y='12' width='6' height='20' rx='2' fill='%230B0B0C'/><rect x='26' y='7' width='6' height='25' rx='2' fill='%230B0B0C'/><text x='42' y='27' font-family='Helvetica,Arial,sans-serif' font-size='19' font-weight='700' fill='%230B0B0C' letter-spacing='-.6'>Marca Gamma</text></svg>",
+   "followers": 61300,
+   "posts": 1178,
+   "following": 331,
+   "postsPerWeek": 1.6,
+   "avgInteractions": 167.2,
+   "medianInteractions": 166.5,
+   "er": 0.273,
+   "erMedian": 0.272,
+   "reelsPct": 17,
+   "collabs": 0,
+   "collabPct": 0,
+   "grid": [
+    {
+     "code": "",
+     "type": "Post",
+     "date": "14 nov",
+     "likes": 203,
+     "comments": 12,
+     "own": true,
+     "topic": "Menú del día"
+    },
+    {
+     "code": "",
+     "type": "Post",
+     "date": "13 nov",
+     "likes": 155,
+     "comments": 10,
+     "own": true,
+     "topic": "Foto de local"
+    },
+    {
+     "code": "",
+     "type": "Post",
+     "date": "11 nov",
+     "likes": 179,
+     "comments": 9,
+     "own": true,
+     "topic": "Promo almuerzo"
+    },
+    {
+     "code": "",
+     "type": "Post",
+     "date": "10 nov",
+     "likes": 152,
+     "comments": 7,
+     "own": true,
+     "topic": "Postre de la semana"
+    },
+    {
+     "code": "",
+     "type": "Post",
+     "date": "8 nov",
+     "likes": 129,
+     "comments": 9,
+     "own": true,
+     "topic": "Horario"
+    },
+    {
+     "code": "",
+     "type": "Reel",
+     "date": "6 nov",
+     "likes": 123,
+     "comments": 7,
+     "own": true,
+     "topic": "Foto de local"
+    },
+    {
+     "code": "",
+     "type": "Post",
+     "date": "5 nov",
+     "likes": 167,
+     "comments": 9,
+     "own": true,
+     "topic": "Sándwich nuevo"
+    },
+    {
+     "code": "",
+     "type": "Post",
+     "date": "3 nov",
+     "likes": 176,
+     "comments": 5,
+     "own": true,
+     "topic": "Promo almuerzo"
+    },
+    {
+     "code": "",
+     "type": "Post",
+     "date": "1 nov",
+     "likes": 149,
+     "comments": 8,
+     "own": true,
+     "topic": "Foto de local"
+    },
+    {
+     "code": "",
+     "type": "Reel",
+     "date": "30 oct",
+     "likes": 172,
+     "comments": 8,
+     "own": true,
+     "topic": "Torta de cumpleaños"
+    },
+    {
+     "code": "",
+     "type": "Post",
+     "date": "29 oct",
+     "likes": 157,
+     "comments": 11,
+     "own": true,
+     "topic": "Saludo de fiesta"
+    },
+    {
+     "code": "",
+     "type": "Post",
+     "date": "27 oct",
+     "likes": 145,
+     "comments": 5,
+     "own": true,
+     "topic": "Menú del día"
+    }
+   ],
+   "isClient": false,
+   "fb": {
+    "followers": 30500,
+    "url": "",
+    "note": "Su canal más activo: menú diario, público mayor, alta interacción en comentarios."
+   },
+   "ads": {
+    "active": false,
+    "count": 0,
+    "since": "",
+    "themes": [],
+    "ctas": [],
+    "formats": "",
+    "summary": "Sin anuncios activos en el periodo revisado. Depende del tráfico de sus locales y de Facebook.",
+    "alert": "",
+    "library": ""
+   },
+   "footprint": "6 locales en centros de oficina",
+   "footprintConf": "estimado",
+   "pos": {
+    "tone": "Informativo, funcional",
+    "focus": "Menú del día y almuerzo",
+    "cta": "Te esperamos",
+    "community": "Trabajadores del sector"
+   }
+  },
+  {
+   "id": "delta",
+   "name": "Marca Delta",
+   "handle": "@marcadelta.demo",
+   "url": "",
+   "color": "#C2C2BC",
+   "logo": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 200 40'><path d='M20 6 C28 16 31 21 31 25 a11 11 0 0 1-22 0 c0-4 3-9 11-19z' fill='%230B0B0C'/><text x='42' y='27' font-family='Helvetica,Arial,sans-serif' font-size='19' font-weight='700' fill='%230B0B0C' letter-spacing='-.6'>Marca Delta</text></svg>",
+   "followers": 37800,
+   "posts": 1247,
+   "following": 800,
+   "postsPerWeek": 4.1,
+   "avgInteractions": 411.7,
+   "medianInteractions": 398,
+   "er": 1.089,
+   "erMedian": 1.053,
+   "reelsPct": 78,
+   "collabs": 3,
+   "collabPct": 25,
+   "grid": [
+    {
+     "code": "",
+     "type": "Reel",
+     "date": "14 nov",
+     "likes": 401,
+     "comments": 24,
+     "own": true,
+     "topic": "Origen: finca y productor"
+    },
+    {
+     "code": "",
+     "type": "Reel",
+     "date": "13 nov",
+     "likes": 342,
+     "comments": 24,
+     "own": true,
+     "topic": "Tostado de la semana"
+    },
+    {
+     "code": "",
+     "type": "Post",
+     "date": "11 nov",
+     "likes": 439,
+     "comments": 31,
+     "own": true,
+     "topic": "Método V60 paso a paso"
+    },
+    {
+     "code": "",
+     "type": "Reel",
+     "date": "10 nov",
+     "likes": 365,
+     "comments": 21,
+     "own": true,
+     "topic": "Cata guiada"
+    },
+    {
+     "code": "",
+     "type": "Post",
+     "date": "8 nov",
+     "likes": 1149,
+     "comments": 61,
+     "own": false,
+     "topic": "Collab con marca aliada"
+    },
+    {
+     "code": "",
+     "type": "Reel",
+     "date": "6 nov",
+     "likes": 383,
+     "comments": 15,
+     "own": true,
+     "topic": "Taller de latte art"
+    },
+    {
+     "code": "",
+     "type": "Reel",
+     "date": "5 nov",
+     "likes": 407,
+     "comments": 23,
+     "own": true,
+     "topic": "Cold brew"
+    },
+    {
+     "code": "",
+     "type": "Reel",
+     "date": "3 nov",
+     "likes": 463,
+     "comments": 29,
+     "own": true,
+     "topic": "Origen: finca y productor"
+    },
+    {
+     "code": "",
+     "type": "Post",
+     "date": "1 nov",
+     "likes": 356,
+     "comments": 17,
+     "own": true,
+     "topic": "Molienda correcta"
+    },
+    {
+     "code": "",
+     "type": "Reel",
+     "date": "30 oct",
+     "likes": 347,
+     "comments": 18,
+     "own": true,
+     "topic": "Bolsa edición limitada"
+    },
+    {
+     "code": "",
+     "type": "Reel",
+     "date": "29 oct",
+     "likes": 1205,
+     "comments": 79,
+     "own": false,
+     "topic": "Collab con marca aliada"
+    },
+    {
+     "code": "",
+     "type": "Reel",
+     "date": "27 oct",
+     "likes": 826,
+     "comments": 47,
+     "own": false,
+     "topic": "Collab con creador/a gastronómico/a"
+    }
+   ],
+   "isClient": false,
+   "fb": {
+    "followers": 4200,
+    "url": "",
+    "note": "Presencia mínima; publica una vez al mes."
+   },
+   "ads": {
+    "active": true,
+    "count": 3,
+    "since": "28 oct 2026",
+    "themes": [
+     "Suscripción mensual",
+     "Origen del café"
+    ],
+    "ctas": [
+     "Suscribirse",
+     "Comprar"
+    ],
+    "formats": "Carrusel educativo + video corto",
+    "summary": "Poca pauta, muy enfocada en suscripción. Mensaje experto y diferenciado: la única marca que vende origen y método.",
+    "alert": "",
+    "library": ""
+   },
+   "footprint": "2 tostadurías + tienda online",
+   "footprintConf": "estimado",
+   "pos": {
+    "tone": "Experto, didáctico",
+    "focus": "Origen, método y cata",
+    "cta": "Suscríbete",
+    "community": "Entusiastas del café de especialidad"
+   }
+  }
+ ],
+ "instagram": {
+  "conclusions": [
+   {
+    "title": "Tu Marca es la que más publica y la que menos crece",
+    "text": "Publica 5,4 posts propios por semana, el doble que Marca Alfa, pero tiene un tercio de sus seguidores. La frecuencia no está comprando alcance."
+   },
+   {
+    "title": "Las colaboraciones multiplican la respuesta",
+    "text": "En Marca Alfa, las piezas con creadores rinden más del doble que sus posts propios. Tu Marca tiene una sola colaboración en sus últimas 12 publicaciones."
+   },
+   {
+    "title": "Un viral no es una estrategia",
+    "text": "Marca Beta tiene el mejor promedio por un solo video. Su mediana está cerca de la de Tu Marca: sin ese post, la diferencia desaparece."
+   },
+   {
+    "title": "Marca Delta: comunidad chica, la más fiel",
+    "text": "Con el menor número de seguidores, tiene el engagement mediano más alto. Su contenido educativo (origen, método) genera guardados y comentarios."
+   },
+   {
+    "title": "Promo cansa",
+    "text": "Los posts de precio de Tu Marca están en el piso de su grilla. Los de proceso y barra duplican su respuesta."
+   }
+  ],
+  "recommendations": [
+   {
+    "title": "Programa de creadores gastronómicos",
+    "text": "Activar 3–4 micro-creadores por trimestre en las comunas de sus locales. Es la palanca de alcance más barata que la competencia ya probó.",
+    "priority": "alta"
+   },
+   {
+    "title": "Menos promo, más proceso",
+    "text": "Bajar las piezas de precio al 30% de la grilla y subir “detrás de la barra” y origen, que hoy rinden el doble.",
+    "priority": "alta"
+   },
+   {
+    "title": "Formato serie",
+    "text": "Convertir el tip de barista en una serie semanal fija para generar hábito y guardados.",
+    "priority": "media"
+   },
+   {
+    "title": "Medir guardados y compartidos",
+    "text": "Mover el KPI de likes a guardados y compartidos, que predicen mejor el alcance orgánico.",
+    "priority": "media"
+   }
+  ]
+ },
+ "facebook": {
+  "conclusions": [
+   {
+    "title": "Facebook sigue vivo para un público",
+    "text": "Marca Gamma tiene en Facebook su canal más activo: menú diario y conversación con un público mayor que no está en Instagram."
+   },
+   {
+    "title": "Tu Marca usa Facebook como espejo",
+    "text": "Replica Instagram con un día de desfase. No hay contenido nativo ni uso de comunidad."
+   },
+   {
+    "title": "Mensajería como servicio",
+    "text": "Las marcas que responden rápido por Messenger concentran las reseñas positivas. Tu Marca ya lo hace bien: falta mostrarlo."
+   }
+  ],
+  "recommendations": [
+   {
+    "title": "Facebook para lo que funciona",
+    "text": "Usarlo para menú del día, reseñas y atención, no como copia de Instagram.",
+    "priority": "media"
+   },
+   {
+    "title": "Pedir reseñas después de la visita",
+    "text": "Activar recomendaciones de página y pedirlas por mensaje tras una compra en app.",
+    "priority": "media"
+   }
+  ]
+ },
+ "metaAds": {
+  "conclusions": [
+   {
+    "title": "Promo de precio es el campo de batalla",
+    "text": "4 de las 5 marcas pautan descuentos o combos. Es el territorio más caro y el que menos diferencia."
+   },
+   {
+    "title": "Marca Alfa domina con embudo completo",
+    "text": "Es la única que pauta marca, producto, app y aperturas al mismo tiempo, con piezas por comuna."
+   },
+   {
+    "title": "Origen y suscripción casi no tienen dueño",
+    "text": "Solo Marca Delta los pauta, con un presupuesto pequeño. Es el hueco más claro de la categoría."
+   },
+   {
+    "title": "Tu Marca tiene volumen, no variedad",
+    "text": "14 anuncios activos, pero 3 de 4 mensajes son de precio. Falta una línea de marca que sostenga el precio premium."
+   },
+   {
+    "title": "Un copy desactualizado resta confianza",
+    "text": "Dos anuncios prometen un horario que el local ya no cumple. Es un error de ejecución fácil de corregir."
+   }
+  ],
+  "recommendations": [
+   {
+    "title": "Corregir hoy los anuncios con horario antiguo",
+    "text": "Pausar o actualizar las dos piezas. Una promesa que no se cumple en el local daña la conversión.",
+    "priority": "alta"
+   },
+   {
+    "title": "Abrir una línea de origen",
+    "text": "Pautar el origen del grano y el tostado para justificar el precio del café de bolsa.",
+    "priority": "alta"
+   },
+   {
+    "title": "Probar suscripción",
+    "text": "Testear una oferta de suscripción mensual en pauta, hoy territorio de una sola marca chica.",
+    "priority": "media"
+   },
+   {
+    "title": "Geolocalizar por local",
+    "text": "Piezas por comuna con el local más cercano, como hace Marca Alfa.",
+    "priority": "media"
+   }
+  ],
+  "territories": {
+   "labels": [
+    "Promo precio",
+    "Producto nuevo",
+    "Delivery app",
+    "Suscripción",
+    "Origen café",
+    "Locales nuevos",
+    "Marca emocional",
+    "Fidelización"
+   ],
+   "values": {
+    "tumarca": [
+     1,
+     1,
+     1,
+     0,
+     0,
+     0,
+     0,
+     0.5
+    ],
+    "alfa": [
+     1,
+     1,
+     0,
+     0,
+     0,
+     1,
+     1,
+     1
+    ],
+    "beta": [
+     1,
+     1,
+     0,
+     0,
+     0,
+     0,
+     0.5,
+     0
+    ],
+    "gamma": [
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0
+    ],
+    "delta": [
+     0,
+     0,
+     0,
+     1,
+     1,
+     0,
+     0,
+     0
+    ]
+   },
+   "notes": {
+    "tumarca": {
+     "7": "Solo menciona la app al pie"
+    },
+    "beta": {
+     "6": "Una pieza de comunidad"
+    },
+    "alfa": {
+     "5": "Piezas por comuna"
+    }
+   }
+  },
+  "prices": [
+   {
+    "offer": "Latte 12 oz",
+    "values": {
+     "tumarca": 3900,
+     "alfa": 4200,
+     "beta": 3500
+    }
+   },
+   {
+    "offer": "Combo desayuno",
+    "values": {
+     "tumarca": 6900,
+     "alfa": 7490,
+     "beta": 5990
+    }
+   },
+   {
+    "offer": "Café de bolsa 250 g",
+    "values": {
+     "tumarca": 12990,
+     "alfa": 10990,
+     "delta": 11990
+    }
+   }
+  ]
+ },
+ "strategicOpportunities": {
+  "title": "Oportunidades estratégicas de la categoría",
+  "subtitle": "Caminos de comunicación que la categoría no está explotando",
+  "industryStats": [
+   {
+    "value": "62%",
+    "label": "de los compradores de café de especialidad dice que el origen influye en su elección",
+    "source": "Dato ilustrativo · demo"
+   },
+   {
+    "value": "3,4x",
+    "label": "más guardados obtiene el contenido educativo frente al promocional en la categoría",
+    "source": "Dato ilustrativo · demo"
+   },
+   {
+    "value": "41%",
+    "label": "de las visitas a cafeterías se deciden en el momento, a menos de 500 m del local",
+    "source": "Dato ilustrativo · demo"
+   },
+   {
+    "value": "1 de 4",
+    "label": "clientes frecuentes probaría una suscripción mensual de café en grano",
+    "source": "Dato ilustrativo · demo"
+   },
+   {
+    "value": "18–30",
+    "label": "es el tramo de edad con mayor respuesta a contenido de creadores gastronómicos",
+    "source": "Dato ilustrativo · demo"
+   }
+  ],
+  "opportunities": [
+   {
+    "icon": "☕",
+    "title": "Apropiarse del origen",
+    "description": "Todas venden precio y producto; solo una marca chica cuenta de dónde viene el café. Es el argumento que sostiene un precio premium.",
+    "hook": "“Del cerro a tu taza”: una serie mensual con el productor de cada grano.",
+    "platforms": [
+     "Instagram",
+     "Meta Ads"
+    ]
+   },
+   {
+    "icon": "🔁",
+    "title": "Suscripción como hábito",
+    "description": "Nadie con escala pauta suscripción. Convierte al cliente frecuente en ingreso recurrente.",
+    "hook": "Primer mes con taza de regalo para quien ya compra 3 veces por semana.",
+    "platforms": [
+     "Meta Ads",
+     "App"
+    ]
+   },
+   {
+    "icon": "🎥",
+    "title": "Creadores de barrio",
+    "description": "Las colaboraciones rinden el doble y la marca cliente casi no las usa.",
+    "hook": "Un creador por comuna recorre el local más cercano y arma su pedido ideal.",
+    "platforms": [
+     "Instagram"
+    ]
+   },
+   {
+    "icon": "📍",
+    "title": "Pauta a 500 metros",
+    "description": "La decisión se toma cerca del local. Solo una marca segmenta por comuna.",
+    "hook": "“Estás a 3 minutos de tu latte”: piezas por local con horario real.",
+    "platforms": [
+     "Meta Ads"
+    ]
+   },
+   {
+    "icon": "🎓",
+    "title": "Educar para fidelizar",
+    "description": "El contenido de método genera guardados y comunidad, como muestra la marca con mejor engagement.",
+    "hook": "Mini curso de 5 reels: molienda, agua, filtro, leche y cata.",
+    "platforms": [
+     "Instagram",
+     "Facebook"
+    ]
+   },
+   {
+    "icon": "💬",
+    "title": "Facebook para la conversación",
+    "description": "Hay un público mayor activo en Facebook que la mayoría ignora.",
+    "hook": "Menú del día con encuesta diaria y respuesta rápida por Messenger.",
+    "platforms": [
+     "Facebook"
+    ]
+   }
+  ]
+ },
+ "diagnosticBrand": {
+  "scoreRows": [
+   {
+    "dim": "Alcance Instagram",
+    "weight": 20,
+    "pts": 7,
+    "note": "48,2K vs 142K del líder (34%)"
+   },
+   {
+    "dim": "Alcance Facebook",
+    "weight": 10,
+    "pts": 3,
+    "note": "12,4K vs 38K del líder (33%)"
+   },
+   {
+    "dim": "Frecuencia Instagram",
+    "weight": 15,
+    "pts": 15,
+    "note": "5,4 posts/sem, la más alta de la categoría"
+   },
+   {
+    "dim": "Engagement Instagram",
+    "weight": 15,
+    "pts": 7,
+    "note": "0,40% mediano, bajo la mediana de la categoría"
+   },
+   {
+    "dim": "Mix de formatos (Reels)",
+    "weight": 10,
+    "pts": 8,
+    "note": "82% Reels"
+   },
+   {
+    "dim": "Colaboraciones",
+    "weight": 10,
+    "pts": 2,
+    "note": "1 de 12 vs 5 de 12 del líder"
+   },
+   {
+    "dim": "Calidad de pauta Meta",
+    "weight": 15,
+    "pts": 9,
+    "note": "Buen volumen, poca variedad y un copy vencido"
+   },
+   {
+    "dim": "Contenido y tono",
+    "weight": 5,
+    "pts": 3,
+    "note": "Voz cercana; abusa de la promo"
+   }
+  ],
+  "gaps": [
+   {
+    "dimension": "Alcance · Instagram",
+    "values": {
+     "tumarca": "48,2K",
+     "alfa": "142K",
+     "beta": "86,5K",
+     "gamma": "61,3K",
+     "delta": "37,8K"
+    },
+    "gapText": "Tu Marca es la cuarta de cinco. Con 9 locales, su escala física supera a su escala digital.",
+    "severity": "alta"
+   },
+   {
+    "dimension": "Engagement mediano",
+    "values": {
+     "tumarca": "0,40%",
+     "alfa": "0,46%",
+     "beta": "0,43%",
+     "gamma": "0,27%",
+     "delta": "1,05%"
+    },
+    "gapText": "Marca Delta muestra que una comunidad chica bien alimentada responde más. El problema de Tu Marca es el contenido, no la frecuencia.",
+    "severity": "alta"
+   },
+   {
+    "dimension": "Colaboraciones",
+    "values": {
+     "tumarca": "1/12",
+     "alfa": "5/12",
+     "beta": "2/12",
+     "gamma": "0/12",
+     "delta": "3/12"
+    },
+    "gapText": "La palanca de alcance que el líder ya usa y Tu Marca no.",
+    "severity": "alta"
+   },
+   {
+    "dimension": "Anuncios activos",
+    "values": {
+     "tumarca": "~14",
+     "alfa": "~22",
+     "beta": "~6",
+     "gamma": "0",
+     "delta": "~3"
+    },
+    "gapText": "Volumen competitivo, segundo de la categoría.",
+    "severity": "baja"
+   },
+   {
+    "dimension": "Territorios de pauta",
+    "values": {
+     "tumarca": "4/8",
+     "alfa": "5/8",
+     "beta": "3/8",
+     "gamma": "0/8",
+     "delta": "2/8"
+    },
+    "gapText": "Pauta concentrada en territorios saturados; ausente en origen y suscripción.",
+    "severity": "media"
+   },
+   {
+    "dimension": "Seguidores Facebook",
+    "values": {
+     "tumarca": "12,4K",
+     "alfa": "38K",
+     "beta": "21K",
+     "gamma": "30,5K",
+     "delta": "4,2K"
+    },
+    "gapText": "Canal secundario; mejora con contenido nativo, no con más frecuencia.",
+    "severity": "media"
+   }
+  ],
+  "verdict": {
+   "scoreValue": 54,
+   "scoreLabel": "54 / 100",
+   "label": "Mucha constancia, poca tracción",
+   "description": "Tu Marca es la más disciplinada de la categoría: publica más que nadie y sostiene pauta todo el mes. Pero su contenido promocional no genera comunidad y casi no usa creadores, la palanca que el líder ya domina. El salto está en cambiar qué publica, no cuánto.",
+   "strengths": [
+    "Frecuencia más alta de la categoría",
+    "Mix de formatos con mayoría de Reels",
+    "Pauta constante con buen volumen",
+    "Atención rápida por mensajes",
+    "Red de 9 locales para activar a nivel barrio"
+   ],
+   "weaknesses": [
+    "Comunidad pequeña frente a su escala física",
+    "Engagement bajo la mediana",
+    "Una sola colaboración en 12 publicaciones",
+    "Pauta concentrada en precio",
+    "Copy de horario desactualizado en anuncios activos"
+   ],
+   "priority": [
+    "Corregir los anuncios con horario antiguo",
+    "Lanzar programa de creadores por comuna",
+    "Bajar la promo al 30% de la grilla",
+    "Abrir una línea de pauta de origen",
+    "Testear suscripción mensual"
+   ]
+  }
+ },
+ "sources": [
+  {
+   "t": "Perfiles públicos de Instagram de cada marca (en un Radar real)",
+   "u": ""
+  },
+  {
+   "t": "Páginas públicas de Facebook de cada marca (en un Radar real)",
+   "u": ""
+  },
+  {
+   "t": "Biblioteca de anuncios de Meta",
+   "u": "https://www.facebook.com/ads/library/"
+  },
+  {
+   "t": "Estudios de industria citados con enlace (en un Radar real)",
+   "u": ""
+  }
+ ]
+}
